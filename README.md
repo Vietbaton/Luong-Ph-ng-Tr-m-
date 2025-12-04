@@ -1,38 +1,35 @@
 <div align="center">
 
-# 🎁 Harumi Gifts Box – Deploy Website Nhanh
-Tạo website hiệu ứng trái tim, lời nhắn yêu thương ✨
+# 🎁 Luong-Phong-Tram 💖 WebTemplate
 
-🔥 **Chỉ cần 1 click để tạo website của bạn trên Vercel**
+Một template web đơn giản — trang lời nhắn / trái tim / hiệu ứng love.  
+Bạn có thể dễ dàng tạo phiên bản của riêng bạn chỉ với một cú click (!) ⬇️
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/WusThanhDieu/Project-Harumi-Gifts-Box)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Vietbaton/Luong-Ph-ng-Tr-m-&project-name=Luong-Phong-Tram)
 
 </div>
 
 ---
 
-## 📌 Giới thiệu
-Harumi Gifts Box là template website tình yêu với hiệu ứng trái tim, chữ rơi, nhạc nền, tin nhắn tuỳ chỉnh…  
-Bạn có thể dễ dàng tạo phiên bản website của riêng mình chỉ với **1 cú nhấp chuột deploy lên Vercel**.
+## 🚀 Giới thiệu  
+Luong-Phong-Tram là một template đơn giản dùng để tạo “web tỏ tình / lời nhắn yêu thương” với hiệu ứng trái tim, lời nhắn tuỳ chỉnh, nhạc nền, v.v. Bạn có thể dễ dàng sử dụng, chỉnh sửa và deploy lên Vercel mà không cần cài đặt phức tạp.
 
 ---
 
-## 🚀 Deploy Nhanh (Recommend)
+## ⚙️ Cách deploy nhanh (1-click)  
 1. Nhấn nút **“Deploy with Vercel”** ở trên  
-2. Đăng nhập Vercel bằng GitHub  
-3. Chọn “Create” → Deploy  
-4. Chờ 10–20 giây để website hoạt động
+2. Đăng nhập Vercel (nếu chưa) — nên dùng GitHub  
+3. Đặt tên project (mặc định đã điền sẵn)  
+4. Nhấn **Create** → đợi khoảng 10–20 s để site hoạt động  
 
-👉 Không cần setup, không cần code!
+Và… bạn đã có website của riêng bạn!
 
 ---
 
-## 🛠️ Tự chạy local (không bắt buộc)
-Nếu muốn chỉnh sửa mã nguồn:
+## 🛠️ Chạy local & tuỳ chỉnh (nếu muốn)  
 
 ```bash
-git clone https://github.com/WusThanhDieu/Project-Harumi-Gifts-Box
-cd Project-Harumi-Gifts-Box
-
-npm install
-npm run dev
+git clone https://github.com/Vietbaton/Luong-Ph-ng-Tr-m-.git
+cd Luong-Ph-ng-Tr-m-    # hoặc tên thư mục bạn clone về
+npm install            # (nếu có dependencies)
+npm run dev            # nếu dự án dùng script dev
